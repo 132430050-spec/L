@@ -1,0 +1,860 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.bll\\raporbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|solutionrelative:library.bll\\raporbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.bll\\oduncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|solutionrelative:library.bll\\oduncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.bll\\kullanicibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|solutionrelative:library.bll\\kullanicibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.bll\\kitapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|solutionrelative:library.bll\\kitapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.bll\\donembll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|solutionrelative:library.bll\\donembll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.dall\\oduncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|solutionrelative:library.dall\\oduncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.dall\\kullanicidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|solutionrelative:library.dall\\kullanicidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.dall\\kitapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|solutionrelative:library.dall\\kitapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.dall\\donemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|solutionrelative:library.dall\\donemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.entity\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|solutionrelative:library.entity\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.entity\\rapor..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|solutionrelative:library.entity\\rapor..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.entity\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|solutionrelative:library.entity\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.entity\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|solutionrelative:library.entity\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.entity\\donem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|solutionrelative:library.entity\\donem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\girisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\girisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\kitapekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\kitapekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.bll\\uyebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2426C220-66E7-450C-A133-488BF73E8EDF}|LIBRARY.BLL\\LIBRARY.BLL.csproj|solutionrelative:library.bll\\uyebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.dall\\uyedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|solutionrelative:library.dall\\uyedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.dall\\rapordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B464D9-9C84-4D80-9455-64DDEBFD0F8C}|LIBRARY.DALL\\LIBRARY.DALL.csproj|solutionrelative:library.dall\\rapordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library.entity\\odunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F4F2D2-EA5C-440E-8D67-5230BF4500F3}|LIBRARY.Entity\\LIBRARY.Entity.csproj|solutionrelative:library.entity\\odunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\encokkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\encokkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\edebidonemlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\edebidonemlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\aktifuyeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\aktifuyeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\gecikenkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\gecikenkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\kategoriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\kategoriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\kitaplistesiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\kitaplistesiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\oducalmaekran\u0131form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\oducalmaekran\u0131form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\library-1\\uyebilgisiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\uyebilgisiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\oducalmaekran\u0131form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\oducalmaekran\u0131form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\kitaplistesiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\kitaplistesiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\oducalmaekran\u0131form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\oducalmaekran\u0131form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\girisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\girisekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\library-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\library-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\edebidonemlerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\edebidonemlerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\edebidonemlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\edebidonemlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\girisekraniform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\girisekraniform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\uyebilgisiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\uyebilgisiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\encokkitapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\encokkitapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\kategoriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\kategoriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\gecikenkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\gecikenkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\encokkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\encokkitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\aktifuyeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\aktifuyeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\kitapekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\kitapekraniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\kitaplistesiform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\kitaplistesiform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\gecikenkitapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\gecikenkitapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\edebidonemlerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\edebidonemlerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\encokkitapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\encokkitapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\uyebilgisiform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\uyebilgisiform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\uyebilgisiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\uyebilgisiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|c:\\users\\lenovo\\desktop\\library-1 - kopya - kopya\\library-1\\aktifuyeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B4896D-E19F-413E-B30A-4BB86F46AB10}|LIBRARY-1\\LIBRARY-1.csproj|solutionrelative:library-1\\aktifuyeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KitapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\KitapDAL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.DALL\\KitapDAL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\KitapDAL.cs",
+              "RelativeToolTip": "LIBRARY.DALL\\KitapDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:18:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KullaniciDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\KullaniciDAL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.DALL\\KullaniciDAL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\KullaniciDAL.cs",
+              "RelativeToolTip": "LIBRARY.DALL\\KullaniciDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:27:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OduncDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\OduncDAL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.DALL\\OduncDAL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\OduncDAL.cs",
+              "RelativeToolTip": "LIBRARY.DALL\\OduncDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:55:39.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonemBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\DonemBLL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.BLL\\DonemBLL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\DonemBLL.cs",
+              "RelativeToolTip": "LIBRARY.BLL\\DonemBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:31:52.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KitapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\KitapBLL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.BLL\\KitapBLL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\KitapBLL.cs",
+              "RelativeToolTip": "LIBRARY.BLL\\KitapBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:19:13.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\KullaniciBLL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.BLL\\KullaniciBLL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\KullaniciBLL.cs",
+              "RelativeToolTip": "LIBRARY.BLL\\KullaniciBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:27:29.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OduncBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\OduncBLL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.BLL\\OduncBLL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\OduncBLL.cs",
+              "RelativeToolTip": "LIBRARY.BLL\\OduncBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:56:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaporBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\RaporBLL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.BLL\\RaporBLL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\RaporBLL.cs",
+              "RelativeToolTip": "LIBRARY.BLL\\RaporBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:58:45.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonemDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\DonemDAL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.DALL\\DonemDAL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\DonemDAL.cs",
+              "RelativeToolTip": "LIBRARY.DALL\\DonemDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:31:22.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Uye.cs",
+              "RelativeDocumentMoniker": "LIBRARY.Entity\\Uye.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Uye.cs",
+              "RelativeToolTip": "LIBRARY.Entity\\Uye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:14:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rapor..cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Rapor..cs",
+              "RelativeDocumentMoniker": "LIBRARY.Entity\\Rapor..cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Rapor..cs",
+              "RelativeToolTip": "LIBRARY.Entity\\Rapor..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:59:50.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Kullanici.cs",
+              "RelativeDocumentMoniker": "LIBRARY.Entity\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Kullanici.cs",
+              "RelativeToolTip": "LIBRARY.Entity\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:26:28.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Kitap.cs",
+              "RelativeDocumentMoniker": "LIBRARY.Entity\\Kitap.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Kitap.cs",
+              "RelativeToolTip": "LIBRARY.Entity\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:18:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Donem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Donem.cs",
+              "RelativeDocumentMoniker": "LIBRARY.Entity\\Donem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Donem.cs",
+              "RelativeToolTip": "LIBRARY.Entity\\Donem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:30:55.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "girisEkraniForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\girisEkraniForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\girisEkraniForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\girisEkraniForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\girisEkraniForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:00:24.843Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "kitapEkraniForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapEkraniForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\kitapEkraniForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapEkraniForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\kitapEkraniForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:43:47.859Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UyeBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\UyeBLL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.BLL\\UyeBLL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.BLL\\UyeBLL.cs",
+              "RelativeToolTip": "LIBRARY.BLL\\UyeBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:15:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UyeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\UyeDAL.cs",
+              "RelativeDocumentMoniker": "LIBRARY.DALL\\UyeDAL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\UyeDAL.cs",
+              "RelativeToolTip": "LIBRARY.DALL\\UyeDAL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:15:04.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RaporDAl.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\RaporDAl.cs",
+              "RelativeDocumentMoniker": "LIBRARY.DALL\\RaporDAl.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.DALL\\RaporDAl.cs",
+              "RelativeToolTip": "LIBRARY.DALL\\RaporDAl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:59:01.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Odunc.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Odunc.cs",
+              "RelativeDocumentMoniker": "LIBRARY.Entity\\Odunc.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY.Entity\\Odunc.cs",
+              "RelativeToolTip": "LIBRARY.Entity\\Odunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:56:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "aktifUyeForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\aktifUyeForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\aktifUyeForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\aktifUyeForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\aktifUyeForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:06:35.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "edebiDonemlerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\edebiDonemlerForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\edebiDonemlerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:07:30.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "enCokKitapForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\enCokKitapForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\enCokKitapForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:43:20.139Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "gecikenKitapForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\gecikenKitapForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\gecikenKitapForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\gecikenKitapForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\gecikenKitapForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:05:29.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "kategoriForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kategoriForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\kategoriForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kategoriForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\kategoriForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:06:53.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "kitapListesiForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapListesiForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\kitapListesiForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapListesiForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\kitapListesiForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:06:55.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "oducAlmaEkran\u0131Form.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\oducAlmaEkran\u0131Form.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\oducAlmaEkran\u0131Form.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\oducAlmaEkran\u0131Form.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\oducAlmaEkran\u0131Form.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:55:15.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "raporlamaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\raporlamaForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\raporlamaForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\raporlamaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\raporlamaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:54:49.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "uyeBilgisiForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\uyeBilgisiForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LIBRARY-1\\uyeBilgisiForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:53:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "oducAlmaEkran\u0131Form.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\oducAlmaEkran\u0131Form.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\oducAlmaEkran\u0131Form.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\oducAlmaEkran\u0131Form.cs",
+              "RelativeToolTip": "LIBRARY-1\\oducAlmaEkran\u0131Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:30:36.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "kitapListesiForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapListesiForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\kitapListesiForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapListesiForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\kitapListesiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:10:27.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "oducAlmaEkran\u0131Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\oducAlmaEkran\u0131Form.Designer.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\oducAlmaEkran\u0131Form.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\oducAlmaEkran\u0131Form.Designer.cs",
+              "RelativeToolTip": "LIBRARY-1\\oducAlmaEkran\u0131Form.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwGcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:49:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "girisEkraniForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\girisEkraniForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\girisEkraniForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\girisEkraniForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\girisEkraniForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:07:23.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LIBRARY-1.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\LIBRARY-1.csproj",
+              "RelativeDocumentMoniker": "LIBRARY-1\\LIBRARY-1.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\LIBRARY-1.csproj",
+              "RelativeToolTip": "LIBRARY-1\\LIBRARY-1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T15:56:55.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "edebiDonemlerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.Designer.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\edebiDonemlerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.Designer.cs",
+              "RelativeToolTip": "LIBRARY-1\\edebiDonemlerForm.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:32:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "edebiDonemlerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\edebiDonemlerForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\edebiDonemlerForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:01:49.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "girisEkraniForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\girisEkraniForm.Designer.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\girisEkraniForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\girisEkraniForm.Designer.cs",
+              "RelativeToolTip": "LIBRARY-1\\girisEkraniForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:34:33.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "uyeBilgisiForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\uyeBilgisiForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\uyeBilgisiForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:01:41.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "enCokKitapForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.Designer.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\enCokKitapForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.Designer.cs",
+              "RelativeToolTip": "LIBRARY-1\\enCokKitapForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:22:15.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "kategoriForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kategoriForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\kategoriForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kategoriForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\kategoriForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:57:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "gecikenKitapForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\gecikenKitapForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\gecikenKitapForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\gecikenKitapForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\gecikenKitapForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:43:05.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "enCokKitapForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\enCokKitapForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\enCokKitapForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:17:51.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "aktifUyeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\aktifUyeForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\aktifUyeForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\aktifUyeForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\aktifUyeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:11:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "kitapEkraniForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapEkraniForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\kitapEkraniForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapEkraniForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\kitapEkraniForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:39:43.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "raporlamaForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\raporlamaForm.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\raporlamaForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\raporlamaForm.cs",
+              "RelativeToolTip": "LIBRARY-1\\raporlamaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:07:09.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "kitapListesiForm.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapListesiForm.resx",
+              "RelativeDocumentMoniker": "LIBRARY-1\\kitapListesiForm.resx",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\kitapListesiForm.resx",
+              "RelativeToolTip": "LIBRARY-1\\kitapListesiForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-07T15:26:06.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "gecikenKitapForm.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\gecikenKitapForm.resx",
+              "RelativeDocumentMoniker": "LIBRARY-1\\gecikenKitapForm.resx",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\gecikenKitapForm.resx",
+              "RelativeToolTip": "LIBRARY-1\\gecikenKitapForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-06T10:35:34.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "edebiDonemlerForm.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.resx",
+              "RelativeDocumentMoniker": "LIBRARY-1\\edebiDonemlerForm.resx",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\edebiDonemlerForm.resx",
+              "RelativeToolTip": "LIBRARY-1\\edebiDonemlerForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-05T13:22:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "enCokKitapForm.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.resx",
+              "RelativeDocumentMoniker": "LIBRARY-1\\enCokKitapForm.resx",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\enCokKitapForm.resx",
+              "RelativeToolTip": "LIBRARY-1\\enCokKitapForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-15T11:32:38.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "uyeBilgisiForm.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.resx",
+              "RelativeDocumentMoniker": "LIBRARY-1\\uyeBilgisiForm.resx",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.resx",
+              "RelativeToolTip": "LIBRARY-1\\uyeBilgisiForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-04T15:57:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "uyeBilgisiForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.Designer.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\uyeBilgisiForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\uyeBilgisiForm.Designer.cs",
+              "RelativeToolTip": "LIBRARY-1\\uyeBilgisiForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:51:26.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "aktifUyeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\aktifUyeForm.Designer.cs",
+              "RelativeDocumentMoniker": "LIBRARY-1\\aktifUyeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY-1 - Kopya - Kopya\\LIBRARY-1\\aktifUyeForm.Designer.cs",
+              "RelativeToolTip": "LIBRARY-1\\aktifUyeForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T15:57:03.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

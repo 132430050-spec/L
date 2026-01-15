@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.Entity\bin\Debug\LIBRARY.Entity.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.Entity\bin\Debug\LIBRARY.Entity.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.Entity\bin\Debug\LIBRARY.Entity.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.Entity\bin\Debug\LIBRARY.Entity.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.Entity\obj\Debug\LIBRARY.Entity.pdb

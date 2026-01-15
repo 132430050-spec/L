@@ -1,0 +1,34 @@
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.BLL.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.BLL.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.DALL.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.Entity.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.DALL.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.Entity.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY..10B737E8.Up2Date
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya\LIBRARY.BLL\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.BLL.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.BLL.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.DALL.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.Entity.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.DALL.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\LIBRARY.Entity.pdb
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY..10B737E8.Up2Date
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.dll
+C:\Users\Lenovo\Desktop\LIBRARY-1 - Kopya - Kopya\LIBRARY.BLL\obj\Debug\LIBRARY.BLL.pdb
